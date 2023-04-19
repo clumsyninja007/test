@@ -8,5 +8,6 @@ namespace GithubTest
 {
     class ClassyClass
     {
+        public string TestProperty { get; set; }
     }
 }
